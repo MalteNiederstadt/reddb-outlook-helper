@@ -1,7 +1,15 @@
 Sehr geschätzter Kollege / sehr geschätzte Kollegin,
-um dir Zugriff auf unsere Dashboards zu gewähren, muss deine Funke-E-Mail-Adresse zwingend mit einem Google-Konto verknüpft werden. Ohne diese Verknüpfung ist es uns leider nicht möglich, dir den Zugriff zu gewähren.
-Dafür schreibe ein Ticket an die Helpline (helpline@funkemedien.de) mit der Bitte, mit deiner Funkemedien Email Adresse ein Managed Google Konto zu erstellen.
-Sobald das Konto erstellt ist, kannst du dich erneut unter audiencesubscription-data@funkemedien.de bei uns melden,  oder den Zugriff direkt über das Dashboard anfragen.
-Vielen Dank für dein Verständnis
+Du erhältst diese E-Mail, weil du über eine private E-Mail-Adresse Zugang zu einem unserer Dashboards beantragt hast.
+Um dir Zugang zu unseren Dashboards zu gewähren, muss dein Google Konto zwingend mit deiner Funke-E-Mail-Adresse erstellt worden sein. Sonst können wir dir leider keinen Zugang gewähren.
+Schreibe dazu ein Ticket an die Helpline (helpline@funkemedien.de) mit der Bitte, ein Managed Google-Konto mit deiner Funke-E-Mail-Adresse zu erstellen.
+Sobald das Konto eingerichtet ist, kannst du uns erneut unter audiencesubscription-data@funkemedien.de kontaktieren oder den Zugang direkt über das Dashboard beantragen.
 
+Sollte du bereits ein Google Konto mit deiner Funke-E-Mail-Adresse haben, melde dich bitte mit deiner Funke-E-Mail-Adresse bei Google an und stelle den Antrag erneut über das Dashboard.
+Solltest du deine Funke E-Mail-Adresse irrtümlich als sekundäre E-Mail-Adresse bei Google hinterlegt haben, wende dich bitte ebenfalls an die Helpline mit der Bitte ein Managed Google Konto mit deiner Funke Email Adresse einzurichten.
+
+Da wir ein sehr kleines Team sind, können wir keine individuelle technische Unterstützung anbieten. Bei technischen Fragen wenden Sie sich bitte an die Helpline.
+Wenn du andere Fragen hast, wende dich bitte an audiencesubscription-data@funkemedien.de.
+
+
+Vielen Dank für dein Verständnis
 Beste Grüße
